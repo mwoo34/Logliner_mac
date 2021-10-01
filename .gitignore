@@ -51,7 +51,8 @@ ExportedObj/
 *.VC.db
 
 Library/
-Logliner_mac/Library
+Logliner/Library
+*.DS_Store
 
 # Unity3D generated meta files
 *.pidb.meta
